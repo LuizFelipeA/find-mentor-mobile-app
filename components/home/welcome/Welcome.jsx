@@ -12,7 +12,7 @@ import styles from './welcome.style';
 import { icons, SIZES } from '../../../constants';
 import { TouchableOpacity } from 'react-native-gesture-handler';
 
-const mentorsSpecialties = ['Tech Career', 'Finance', 'Entrepreneurship', 'Public Speaking'];
+const mentorsSpecialties = ['Tech Career', 'Finance', 'Entrepreneurship', 'Public Speaking', 'Polyglot'];
 
 const Welcome = () => {
   const router = useRouter();
