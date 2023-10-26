@@ -26,4 +26,52 @@ These instructions will help you get a copy of the project up and running on you
    git clone https://github.com/yourusername/developer-job-search-app.git
    ```
 2. Navigate to the project directory:
-cd developer-job-search-app
+   ``` cd developer-job-search-app ```
+
+3. Install dependencies:
+   ```npm install```
+
+4. Start the development server:
+  ```npm start```
+
+## Usage
+
+The Developer Job Search App provides a user-friendly interface for job seekers to explore and apply for developer job listings. Here's how you can use the app effectively:
+
+### 1. Home Screen
+
+- When you open the app, you'll land on the home screen, where you can browse the latest job listings.
+
+### 2. Job Categories
+
+- Explore job categories such as Web Development, Mobile Development, DevOps, and more by tapping on the category buttons.
+
+### 3. Job Listings
+
+- Browse job listings within your selected category.
+- Click on a job listing to view detailed information, including job description, company details, and application instructions.
+
+### 4. Apply for Jobs
+
+- To apply for a job, follow the provided instructions in the job listing. It may include sending an email or visiting the company's application page.
+
+### 5. Save Favorite Jobs
+
+- Mark job listings as favorites to easily access them later. Use the "Favorites" section to manage your saved jobs.
+
+### 6. Filter and Search
+
+- Use the search bar to find specific job titles or keywords.
+- Apply filters to narrow down job listings by location, job type, and salary range.
+
+### 7. Profile
+
+- Access your user profile to view your saved favorite jobs and customize your job preferences.
+
+### 8. Notifications
+
+- Receive real-time notifications about new job listings matching your preferences.
+
+### 9. Feedback and Support
+
+- If you encounter any issues or have
