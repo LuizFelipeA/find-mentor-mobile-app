@@ -3,7 +3,8 @@
 ## Overview
 The Developer Job Search App is a mobile application developed using React Native that helps developers find job opportunities that match their skills, interests, and preferences. Whether you're a junior developer looking for your first job or an experienced developer seeking new challenges, this app is designed to simplify the job search process.
 
-![App Screenshot](/screenshots/app-screenshot.png)
+![image](https://github.com/LuizFelipeA/find-mentor-mobile-app/assets/59900979/a56aaa41-f8ab-416c-97fe-7a8f2045ff12)
+
 
 ### Key Features
 - Search for developer job openings by location, skills, and job title.
