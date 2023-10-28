@@ -58,8 +58,12 @@ const JobDetails = () => {
                     <Text>No data</Text>
                 ) : (
                     <View style={{ padding: SIZES.medium, paddingBottom: 100}}>
-                        <Company />
-                        <JobTabs />
+                        <Company 
+
+                        />
+                        <JobTabs
+
+                        />
                     </View>
                 )}
 
