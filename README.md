@@ -3,15 +3,14 @@
 ## Overview
 The Developer Job Search App is a mobile application developed using React Native that helps developers find job opportunities that match their skills, interests, and preferences. Whether you're a junior developer looking for your first job or an experienced developer seeking new challenges, this app is designed to simplify the job search process.
 
-![image](https://github.com/LuizFelipeA/find-mentor-mobile-app/assets/59900979/a56aaa41-f8ab-416c-97fe-7a8f2045ff12)
-
+![image](https://github.com/LuizFelipeA/find-mentor-mobile-app/assets/59900979/caef579b-83da-4b77-8c92-029a84beb4d7)
+![image](https://github.com/LuizFelipeA/find-mentor-mobile-app/assets/59900979/8b91278f-8cb6-443c-aef4-926e3a1557a5)
 
 ### Key Features
 - Search for developer job openings by location, skills, and job title.
 - Save and manage your favorite job listings.
-- Set up job alerts to get notified of new opportunities.
 - Explore company profiles and learn more about potential employers.
-- Apply for jobs directly within the app.
+- Apply for jobs.
 - User-friendly and intuitive interface for a seamless job search experience.
 
 ## Getting Started
@@ -41,11 +40,11 @@ The Developer Job Search App provides a user-friendly interface for job seekers 
 
 ### 1. Home Screen
 
-- When you open the app, you'll land on the home screen, where you can browse the latest job listings.
+- When you open the app, you'll land on the home screen, where you can browse for jobs by doing your search.
 
 ### 2. Job Categories
 
-- Explore job categories such as Web Development, Mobile Development, DevOps, and more by tapping on the category buttons.
+- Explore jobs specialties such as Web Development, Mobile Development, DevOps, and more by tapping on the category buttons.
 
 ### 3. Job Listings
 
@@ -65,14 +64,16 @@ The Developer Job Search App provides a user-friendly interface for job seekers 
 - Use the search bar to find specific job titles or keywords.
 - Apply filters to narrow down job listings by location, job type, and salary range.
 
-### 7. Profile
+## Coming up Features 
+
+### Profile
 
 - Access your user profile to view your saved favorite jobs and customize your job preferences.
 
-### 8. Notifications
+### Notifications
 
 - Receive real-time notifications about new job listings matching your preferences.
 
-### 9. Feedback and Support
+## Feedback and Support
 
 - If you encounter any issues or have
